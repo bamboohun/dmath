@@ -1,6 +1,6 @@
 # My Discrete Math Repository
 
-## Homework 2 - 202655349 (Your ID) OH JU HEON
+## Homework 2 - 202655### (Your ID) HONG GIL DONG
 
 ### 2.1 Equation Editing
 | # | text | formula |
@@ -22,3 +22,14 @@ Using the propositions
 * $r$ = "The professor accepts bribes" 
 
 Translate the following into statements of propositional logic:
+
+1. If I do not study, then I will only pass the course if the professor accepts bribes.<br>
+  $$p$$
+2. If the professor accepts bribes, then I do not study.<br>
+  $$p$$
+3. The professor does not accept bribes, but I study and will pass the course.<br>
+  $$p$$
+4. If I study, the professor will accept bribes and I will pass the course.<br>
+  $$p$$
+5. I will not pass the course but the professor accepts bribes.<br>
+  $$p$$
